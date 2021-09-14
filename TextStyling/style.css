@@ -1,0 +1,29 @@
+h1, h2, h3{
+    margin-top: 01px;
+    margin-bottom: 05px;
+}
+body{
+    font-family: monospace;
+}
+h1{
+    color: cyan;
+    background-color: black;
+}
+span{
+    color: white;
+    background-color: black;
+}
+h2{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-weight: lighter;
+}
+h3{
+    background-color: teal;
+    text-align: right;
+    color: darkblue;
+    font-weight: lighter;
+    text-decoration: underline;
+}
