@@ -1,0 +1,35 @@
+button{
+    display: block;
+    margin-left: 50px;
+    margin-bottom: 15px;
+}
+
+.button1{
+border: 2px solid #1ca0a1;
+border-radius: 250px;
+color: #1ca0a1;
+margin-top:50px;
+font-size: medium;
+width: 150px;
+}
+.button2{
+color: white;
+background-color: #06d1b2;
+border-radius: 50%;
+width: 35px;
+height:35px;
+font-size: 170%;
+border: 0px;
+}
+
+.button3{
+background-color: #2c78e4;
+border-color: black;
+color: white;
+font-size: 1em;
+width: 175px;
+height: 35px;
+font-weight: 200;
+font-family:sans-serif;
+box-shadow: 3px 3px black;
+}
